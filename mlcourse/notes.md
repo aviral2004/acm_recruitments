@@ -1,0 +1,4 @@
+- histogram plots are a way to guage distribution type of data
+- Clearer way to grasp distribution are kernel density plots (smoothed histograms), they do not depend on the size of the bins
+- in seaborn distplots, the height of the histogram bar is normed and shows the density rather than the number of examples in each bin
+- the fact that the data is not balanced over categories may imply some restrictions on measuring the classification performance, and, in the future, we may want to additionally penalize our model errors in predicting the minority class
